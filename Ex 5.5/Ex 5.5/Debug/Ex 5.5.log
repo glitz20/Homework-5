@@ -1,0 +1,12 @@
+﻿  Date.cpp
+c:\users\sapko\onedrive\documents\visual studio 2015\projects\ex 5.5\ex 5.5\date.cpp(9): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\sapko\onedrive\documents\visual studio 2015\projects\ex 5.5\ex 5.5\date.cpp(19): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\sapko\onedrive\documents\visual studio 2015\projects\ex 5.5\ex 5.5\date.cpp(43): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+  AccountInfo.cpp
+  Account.cpp
+  Generating Code...
+  Ex 5.5.vcxproj -> C:\Users\sapko\OneDrive\Documents\Visual Studio 2015\Projects\Ex 5.5\Debug\Ex 5.5.exe
+  Ex 5.5.vcxproj -> C:\Users\sapko\OneDrive\Documents\Visual Studio 2015\Projects\Ex 5.5\Debug\Ex 5.5.pdb (Full PDB)

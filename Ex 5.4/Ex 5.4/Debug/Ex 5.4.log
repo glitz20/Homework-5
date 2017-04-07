@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\sapko\onedrive\documents\visual studio 2015\projects\ex 5.4\ex 5.4\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\sapko\onedrive\documents\visual studio 2015\projects\ex 5.4\ex 5.4\source.cpp(39): warning C4018: '<': signed/unsigned mismatch
+c:\users\sapko\onedrive\documents\visual studio 2015\projects\ex 5.4\ex 5.4\source.cpp(11): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  c:\users\sapko\onedrive\documents\visual studio 2015\projects\ex 5.4\ex 5.4\source.cpp(36): note: see reference to function template instantiation 'void shuffle<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+c:\users\sapko\onedrive\documents\visual studio 2015\projects\ex 5.4\ex 5.4\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  Ex 5.4.vcxproj -> C:\Users\sapko\OneDrive\Documents\Visual Studio 2015\Projects\Ex 5.4\Debug\Ex 5.4.exe
+  Ex 5.4.vcxproj -> C:\Users\sapko\OneDrive\Documents\Visual Studio 2015\Projects\Ex 5.4\Debug\Ex 5.4.pdb (Full PDB)
